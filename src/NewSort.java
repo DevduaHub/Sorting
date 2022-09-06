@@ -22,6 +22,7 @@ public class NewSort {
 				
 			}
 			
+			
 			int temp = array[k];
 			array[k]=array[loc];
 			array[loc]=temp;
